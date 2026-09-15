@@ -105,15 +105,6 @@ python -m src.predictor predecir data/api_idealista/madrid_ciudad_venta.json -o 
 python -m src.predictor empaquetar    # dist/habitia_predictor.zip, autocontenido
 ```
 
-## Documentos de decisión
-
-- [`docs/plan_inclusion_variables.md`](docs/plan_inclusion_variables.md) — **qué** variables entran
-- [`docs/plan_transformaciones.md`](docs/plan_transformaciones.md) — **cómo** entra cada una
-
-Razonan por extenso lo que los notebooks 02 y 03 ejecutan. Sus cifras se calcularon antes de
-que existiera `src/analisis_seleccion.py`; **las cifras válidas son las de los notebooks**,
-que son las reproducibles.
-
 ## Datos
 
 Fuentes, estructura de `data/` y diccionario del dataset base: [`data/README.md`](data/README.md).
