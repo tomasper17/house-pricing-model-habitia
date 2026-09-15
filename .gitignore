@@ -1,0 +1,17 @@
+# Entornos y caché de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Paquete exportado y zip para compartir (se regeneran con `python -m src.predictor`)
+dist/
+data/models/paquete_produccion/
+
+# Archivos temporales de Office
+~$*.xlsx
+~$*.docx
+
+# Credenciales locales
+.env
+idealista_credenciales.py

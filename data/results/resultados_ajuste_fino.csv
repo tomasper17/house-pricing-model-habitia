@@ -1,0 +1,8 @@
+nombre,familia,n_columnas,rmse_log_media,rmse_log_std,rmse_log_folds,tiempo_s,n_estimators_final
+arboles_ajustado,random_forest,28,0.1829416156635936,0.0022730208098535,"[0.1831, 0.187, 0.1803, 0.1829, 0.1815]",38.4,
+arboles_ajustado_ligero,random_forest,28,0.1829912149708693,0.002122660740582,"[0.1835, 0.1867, 0.1804, 0.1827, 0.1817]",25.7,
+arboles_ajustado,xgboost,28,0.1797068019190352,0.0020292791157311,"[0.1808, 0.1827, 0.1766, 0.1791, 0.1794]",43.4,849.0
+arboles_desplegable_estructura_arboles,xgboost,21,0.1868480502709044,0.0019130363621917,"[0.186, 0.1895, 0.184, 0.1883, 0.1864]",24.0,541.0
+arboles_desplegable_ajustado,random_forest,21,0.1865474422696441,0.0019910696969487,"[0.1856, 0.1898, 0.184, 0.1877, 0.1857]",32.8,
+arboles_desplegable_ajustado_ligero,random_forest,21,0.1866553711745962,0.0018973529557621,"[0.1859, 0.1899, 0.1841, 0.1872, 0.1861]",20.6,
+arboles_desplegable_ajustado,xgboost,21,0.18568451562696472,0.0014825777507851898,"[0.186, 0.1879, 0.184, 0.1864, 0.1841]",15.0,401.0

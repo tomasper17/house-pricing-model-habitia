@@ -1,0 +1,38 @@
+{
+  "ganador_global": {
+    "nombre": "arboles_ajustado",
+    "familia": "xgboost",
+    "dataset": "arboles",
+    "params": {
+      "colsample_bytree": 1.0,
+      "gamma": 0.0008455974281855146,
+      "learning_rate": 0.03618918309243442,
+      "max_depth": 11,
+      "min_child_weight": 1,
+      "reg_alpha": 0.004051044435568245,
+      "reg_lambda": 0.0,
+      "subsample": 0.7805900189973131,
+      "n_estimators": 835
+    },
+    "rmse_log_cv": 0.1801401467204987,
+    "rmse_log_cv_std": 0.0023008893570432
+  },
+  "produccion": {
+    "nombre": "arboles_desplegable_ajustado",
+    "familia": "xgboost",
+    "dataset": "arboles_desplegable",
+    "params": {
+      "colsample_bytree": 0.528081635815584,
+      "gamma": 0.0005361223891082169,
+      "learning_rate": 0.08788507761298064,
+      "max_depth": 12,
+      "min_child_weight": 5,
+      "reg_alpha": 0.0034879036214009018,
+      "reg_lambda": 8.659692055247017,
+      "subsample": 0.9568742693092576,
+      "n_estimators": 410
+    },
+    "rmse_log_cv": 0.1857717186786336,
+    "rmse_log_cv_std": 0.0015603610192801
+  }
+}

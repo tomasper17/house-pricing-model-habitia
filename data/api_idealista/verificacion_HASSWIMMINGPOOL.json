@@ -1,0 +1,79 @@
+{
+ "nombre": "verificacion_HASSWIMMINGPOOL",
+ "descargado": "2026-09-13T18:26:32",
+ "parametros": {
+  "country": "es",
+  "operation": "sale",
+  "property_type": "homes",
+  "center": "40.4030,-3.6930",
+  "distance": 300,
+  "max_items_per_page": 50,
+  "max_pages": null,
+  "swimmingPool": "true"
+ },
+ "n_anuncios": 1,
+ "anuncios": [
+  {
+   "propertyCode": "109495132",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/98/52/1138208910.webp",
+   "externalReference": "6ºB Dúplex",
+   "numPhotos": 16,
+   "floor": "6",
+   "price": 1760000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 1760000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "penthouse",
+   "operation": "sale",
+   "size": 284.0,
+   "exterior": true,
+   "rooms": 4,
+   "bathrooms": 3,
+   "address": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.403285,
+   "longitude": -3.6938685,
+   "showAddress": true,
+   "url": "https://www.idealista.com/obra-nueva/109495132/",
+   "distance": "80",
+   "description": "Te presentamos un edifico moderno y nuevo, increíblemente ubicado en esquina con dos fachadas a las calles Palos de la frontera y Paseo de las Delicias con orientación sur y este, en las dos calles más anchas de la zona. Aquí, tendrás la oportunidad de elegir entre viviendas exclusivas de 2 a 4 dormitorios, equipadas con plaza de garaje y trastero, diseñadas por los renombrados arquitectos Sancho-Madridejos y promovidas por la prestigiosa firma Equilis. Cada residencia refleja la visión de tus sueños de hogar, con espacios amplios y luminosos, destacados por generosos ventanales y varias terrazas en algunos casos. El edifico destaca por sus estándares de calidad y sus zonas comunes. Descubre un gimnasio, una piscina que invita al relax y un jardín comunitario que te sumerge en un entorno de serenidad. Por último, pero no menos importante, la ubicación es insuperable. Estas a un paso del Triángulo del Arte, del río Manzanares y de la nueva zona empresarial de Madrid. ¡No dejes pasar esta oportunidad de vivir en el centro de todo!",
+   "hasVideo": false,
+   "status": "newdevelopment",
+   "newDevelopment": true,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "newDevelopmentFinished": false,
+   "priceByArea": 6197.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat",
+    "subTypology": "penthouse"
+   },
+   "suggestedTexts": {
+    "title": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topPlus": false,
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false
+  }
+ ]
+}

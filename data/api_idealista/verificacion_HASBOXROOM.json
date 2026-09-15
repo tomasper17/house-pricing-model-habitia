@@ -1,0 +1,190 @@
+{
+ "nombre": "verificacion_HASBOXROOM",
+ "descargado": "2026-09-13T18:26:31",
+ "parametros": {
+  "country": "es",
+  "operation": "sale",
+  "property_type": "homes",
+  "center": "40.4030,-3.6930",
+  "distance": 300,
+  "max_items_per_page": 50,
+  "max_pages": null,
+  "storeRoom": "true"
+ },
+ "n_anuncios": 3,
+ "anuncios": [
+  {
+   "propertyCode": "109495132",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/98/52/1138208910.webp",
+   "externalReference": "6ºB Dúplex",
+   "numPhotos": 16,
+   "floor": "6",
+   "price": 1760000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 1760000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "penthouse",
+   "operation": "sale",
+   "size": 284.0,
+   "exterior": true,
+   "rooms": 4,
+   "bathrooms": 3,
+   "address": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.403285,
+   "longitude": -3.6938685,
+   "showAddress": true,
+   "url": "https://www.idealista.com/obra-nueva/109495132/",
+   "distance": "80",
+   "description": "Te presentamos un edifico moderno y nuevo, increíblemente ubicado en esquina con dos fachadas a las calles Palos de la frontera y Paseo de las Delicias con orientación sur y este, en las dos calles más anchas de la zona. Aquí, tendrás la oportunidad de elegir entre viviendas exclusivas de 2 a 4 dormitorios, equipadas con plaza de garaje y trastero, diseñadas por los renombrados arquitectos Sancho-Madridejos y promovidas por la prestigiosa firma Equilis. Cada residencia refleja la visión de tus sueños de hogar, con espacios amplios y luminosos, destacados por generosos ventanales y varias terrazas en algunos casos. El edifico destaca por sus estándares de calidad y sus zonas comunes. Descubre un gimnasio, una piscina que invita al relax y un jardín comunitario que te sumerge en un entorno de serenidad. Por último, pero no menos importante, la ubicación es insuperable. Estas a un paso del Triángulo del Arte, del río Manzanares y de la nueva zona empresarial de Madrid. ¡No dejes pasar esta oportunidad de vivir en el centro de todo!",
+   "hasVideo": false,
+   "status": "newdevelopment",
+   "newDevelopment": true,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "newDevelopmentFinished": false,
+   "priceByArea": 6197.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat",
+    "subTypology": "penthouse"
+   },
+   "suggestedTexts": {
+    "title": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "111805115",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7f/63/74/1449007165.webp",
+   "externalReference": "10008921",
+   "numPhotos": 32,
+   "floor": "2",
+   "price": 548000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 548000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 103.0,
+   "exterior": true,
+   "rooms": 2,
+   "bathrooms": 2,
+   "address": "Piso en Plaza Luca de Tena, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.4011183,
+   "longitude": -3.6942386,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/111805115/",
+   "distance": "234",
+   "description": "Magnífica vivienda exterior con vistas a una plaza ajardinada y tranquila, situada en pleno Paseo de las Delicias, en el distrito de Arganzuela, barrio de Palos de la Frontera.  Una ubicación céntrica y privilegiada, junto a Atocha y la estación de Alta Velocidad (AVE), con excelentes comunicaciones( tren, metro, bus) y todos los servicios al alcance.  La vivienda destaca por su amplitud y excelente distribución.  Dispone de un espacioso hall de entrada, 2 Wc ( 1 de ellos aseo ), 2 dormitorios, uno de ellos en suite con WC incorporado, un amplio y luminoso salón-comedor con dos ventanas orientadas a la plaza y una gran cocina independiente con zona de comedor, con capacidad para 4-6 personas. Y para mayor desahogo cuenta con un estupendo trastero.  Lista para entrar a vivir, cuenta con una reforma reciente y  cuidados acabados, ofreciendo una combinación perfecta entre confort, funcionalidad y ubicación. Finca representativa con calefacción central, portero físico, 2 ascensores y acceso adaptado para personas con movilidad reducida, y por lo tanto accesibilidad para todos los residentes.  A pocos minutos de \"Estación de Madrid-Puerta de Atocha-Almudena Grandes \", \"estación de Delicias \", rodeada de supermercados, farmacias, comercios, restaurantes y agradables terrazas, en una de las zonas más demandadas y mejor comunicadas de Madrid.  \"Tienes en corto paseo \":  *Museo del prado *Museo Thyssen  *Casa Encendida *Caixa Forum  * Parque de El Retiro  Una excelente oportunidad para quienes buscan una vivienda amplia, tranquila y lista para disfrutar en el corazón de Madrid.  * Ofrece excelentes comunicaciones mediante transporte público, muy cerquita de boca de Metro: Palos de la frontera ( L-3 )  * Y si caminas 5 o 6 minutos, tiene la línea de metro de Estación del Arte ( L -1) + Atocha RENFE CERCANÍAS + ATOCHA AVE. * Y en cuanto a Buses tienes: ( N801-N805-N807- 8-19-45-47-86 -N11- N13 ) * Acceso rápido a las principales vías de la ciudad A-42 o ( carretera de Toledo ) y M-30 que es el primer anillo de circunvalación y que te conecta con el resto de radiales del paí.     . - No están incluidos los gastos de la compraventa, tales como ITP, Notario y Registro.",
+   "hasVideo": true,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": true,
+   "priceByArea": 5320.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Plaza Luca de Tena, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": true,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "111340940",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9a/7f/48/1444486193.webp",
+   "externalReference": "10008867",
+   "numPhotos": 27,
+   "price": 425000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 425000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 49.0,
+   "exterior": false,
+   "rooms": 3,
+   "bathrooms": 1,
+   "address": "Piso en Calle de las Delicias, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.403331,
+   "longitude": -3.6900764,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/111340940/",
+   "distance": "250",
+   "description": "VIVIENDA2 ofrece esta gran oportunidad. Ubicada en una de las arterias más dinámicas y consolidadas de Madrid, en la reconocida Calle de Delicias, se presenta esta vivienda que combina a la perfección comodidad, conectividad y calidad de vida en un entorno plenamente urbano. La propiedad se sitúa en una zona estratégicamente comunicada, lo que la convierte en una opción ideal tanto para residencia habitual como para inversión. Dispone de excelentes conexiones mediante transporte público, con acceso cercano a múltiples líneas de metro y cercanías, facilitando desplazamientos rápidos y directos hacia el centro de la ciudad y otros puntos clave. Asimismo, varias líneas de autobús transitan por la zona, ofreciendo una cobertura completa y eficiente. En cuanto a comunicaciones por carretera, la vivienda cuenta con acceso ágil a las principales vías de salida y circunvalación de Madrid, lo que permite una movilidad cómoda tanto dentro como fuera de la capital. El entorno inmediato destaca por su amplia oferta de servicios y comercios, cubriendo sobradamente todas las necesidades del día a día. A escasos metros se encuentran supermercados, tiendas de proximidad, centros educativos, instalaciones deportivas y una variada selección de establecimientos de restauración. Además, la cercanía a centros de salud, farmacias y zonas verdes aporta un valor añadido que garantiza una excelente calidad de vida. La zona de Delicias es reconocida por su equilibrio entre tradición y modernidad, ofreciendo un ambiente vivo y seguro, con una creciente demanda tanto residencial como comercial. Su proximidad a enclaves emblemáticos y áreas de actividad cultural y empresarial refuerza aún más su atractivo. En definitiva, esta vivienda representa una oportunidad única para quienes buscan un inmueble bien situado, con inmejorables comunicaciones y rodeado de todos los servicios necesarios, en uno de los barrios con mayor proyección de Madrid. No están incluidos los gastos de la compraventa, tales como ITP, Notario y Registro.",
+   "hasVideo": true,
+   "status": "renew",
+   "newDevelopment": false,
+   "hasLift": true,
+   "priceByArea": 8673.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Calle de las Delicias, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  }
+ ]
+}

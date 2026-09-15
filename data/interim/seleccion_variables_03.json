@@ -1,0 +1,41 @@
+{
+  "cols_incluir": [
+    "BATHNUMBER",
+    "BUILTTYPEID_1",
+    "BUILTTYPEID_2",
+    "CADASTRALQUALITYID",
+    "HASAIRCONDITIONING",
+    "HASLIFT",
+    "HASPARKINGSPACE",
+    "HASSWIMMINGPOOL",
+    "alq_mediana_eur_m2_barrio",
+    "epoca_construccion",
+    "habitaciones_cat",
+    "indice_vulnerabilidad",
+    "log_area",
+    "log_area_50",
+    "log_dist_castellana",
+    "log_dist_centro",
+    "log_dist_metro",
+    "planta_cat"
+  ],
+  "cols_incluir_arboles": [
+    "CONSTRUCTEDAREA",
+    "ROOMNUMBER",
+    "BATHNUMBER",
+    "FLOORCLEAN",
+    "HASLIFT",
+    "HASAIRCONDITIONING",
+    "HASSWIMMINGPOOL",
+    "HASPARKINGSPACE",
+    "CADCONSTRUCTIONYEAR",
+    "CADASTRALQUALITYID",
+    "BUILTTYPEID_1",
+    "BUILTTYPEID_2",
+    "DISTANCE_TO_CITY_CENTER",
+    "DISTANCE_TO_CASTELLANA",
+    "DISTANCE_TO_METRO",
+    "alq_mediana_eur_m2_barrio",
+    "indice_vulnerabilidad"
+  ]
+}

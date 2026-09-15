@@ -1,0 +1,364 @@
+{
+ "nombre": "verificacion_HASPARKINGSPACE",
+ "descargado": "2026-09-13T18:26:32",
+ "parametros": {
+  "country": "es",
+  "operation": "sale",
+  "property_type": "homes",
+  "center": "40.4030,-3.6930",
+  "distance": 300,
+  "max_items_per_page": 50,
+  "max_pages": null,
+  "garage": "true"
+ },
+ "n_anuncios": 6,
+ "anuncios": [
+  {
+   "propertyCode": "109495132",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/98/52/1138208910.webp",
+   "externalReference": "6ºB Dúplex",
+   "numPhotos": 16,
+   "floor": "6",
+   "price": 1760000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 1760000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "penthouse",
+   "operation": "sale",
+   "size": 284.0,
+   "exterior": true,
+   "rooms": 4,
+   "bathrooms": 3,
+   "address": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.403285,
+   "longitude": -3.6938685,
+   "showAddress": true,
+   "url": "https://www.idealista.com/obra-nueva/109495132/",
+   "distance": "80",
+   "description": "Te presentamos un edifico moderno y nuevo, increíblemente ubicado en esquina con dos fachadas a las calles Palos de la frontera y Paseo de las Delicias con orientación sur y este, en las dos calles más anchas de la zona. Aquí, tendrás la oportunidad de elegir entre viviendas exclusivas de 2 a 4 dormitorios, equipadas con plaza de garaje y trastero, diseñadas por los renombrados arquitectos Sancho-Madridejos y promovidas por la prestigiosa firma Equilis. Cada residencia refleja la visión de tus sueños de hogar, con espacios amplios y luminosos, destacados por generosos ventanales y varias terrazas en algunos casos. El edifico destaca por sus estándares de calidad y sus zonas comunes. Descubre un gimnasio, una piscina que invita al relax y un jardín comunitario que te sumerge en un entorno de serenidad. Por último, pero no menos importante, la ubicación es insuperable. Estas a un paso del Triángulo del Arte, del río Manzanares y de la nueva zona empresarial de Madrid. ¡No dejes pasar esta oportunidad de vivir en el centro de todo!",
+   "hasVideo": false,
+   "status": "newdevelopment",
+   "newDevelopment": true,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "newDevelopmentFinished": false,
+   "priceByArea": 6197.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat",
+    "subTypology": "penthouse"
+   },
+   "suggestedTexts": {
+    "title": "Ático en Paseo de las Delicias, 42, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "112517381",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/c2/25/1472603823.webp",
+   "numPhotos": 53,
+   "floor": "6",
+   "price": 620000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 620000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 85.0,
+   "exterior": true,
+   "rooms": 3,
+   "bathrooms": 1,
+   "address": "Piso en Paseo de las Delicias, Delicias, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Delicias",
+   "latitude": 40.4010502,
+   "longitude": -3.6932996,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/112517381/",
+   "distance": "218",
+   "description": "PISO REFORMADO EN 6ª PLANTA EXTERIOR CON GARAJE, BALCÓN Y ESPECTACULARES VISTAS EN DELICIAS VIVEI Real Estate presenta esta magnífica vivienda de 85 m², situada en una sexta planta exterior con ascensor, en una finca construida en 1954, con garaje incluido en el precio y una ubicación privilegiada en el barrio de Delicias, Arganzuela. La vivienda ha sido reformada y está lista para entrar a vivir, ofreciendo una distribución cómoda y funcional, junto con unas características especialmente difíciles de encontrar en la zona. Uno de sus grandes atractivos es su amplio salón, un espacio generoso y agradable que cuenta con acceso directo al balcón y unas vistas abiertas y despejadas que aportan una gran sensación de amplitud y luminosidad a la vivienda. Dispone de tres dormitorios, todos ellos de buenas dimensiones y equipados con armarios empotrados y aire acondicionado independiente, ofreciendo comodidad y capacidad de almacenamiento. La vivienda cuenta además con aire acondicionado en todas las estancias, lo que permite mantener una temperatura agradable durante todo el año. La cocina, independiente y funcional, se integra perfectamente en la distribución de la vivienda. El baño completo dispone de ventana al patio interior de la finca, proporcionando ventilación y luz natural. Otro de los grandes valores añadidos de esta propiedad es el garaje incluido, con un sistema de acceso especialmente cómodo mediante lector de matrícula, permitiendo entrar y salir del aparcamiento de forma rápida y segura. La finca, construida en 1954, dispone de ascensor y se encuentra en una de las zonas más consolidadas y demandadas de Arganzuela, rodeada de todo tipo de servicios, comercios, supermercados, colegios, restaurantes y espacios de ocio. UBICACIÓN Y COMUNICACIONES La vivienda se encuentra en Delicias, una zona céntrica de Madrid que combina la comodidad de vivir cerca del centro con una excelente conexión mediante transporte público. A pocos minutos se encuentra la estación de Metro Delicias (Línea 3) y la estación de Cercanías Delicias, con conexiones de Cercanías y una amplia red de autobuses EMT. Su proximidad a Atocha, Embajadores, Palos de la Frontera y Madrid Río permite disfrutar de una ubicación estratégica para desplazarse tanto por Madrid como fuera de la capital. Además, la zona cuenta con numerosos servicios y espacios culturales y de ocio, como el Museo del Ferrocarril y el entorno de Madrid Río. Una vivienda especialmente interesante para quienes buscan espacio, altura, buenas vistas, reforma, garaje y una ubicación céntrica y perfectamente comunicada, sin renunciar a la comodidad de entrar a vivir desde el primer día. VIVEI REAL ESTATE.",
+   "hasVideo": true,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "priceByArea": 7294.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Paseo de las Delicias, Delicias, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": true,
+   "has360": false,
+   "hasStaging": false,
+   "highlight": {
+    "groupDescription": "Destacado"
+   },
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "111183632",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/28/9c/1467410540.webp",
+   "externalReference": "48edab98-3bfd-4f3c-b1bc-7ea353e10c8d",
+   "numPhotos": 30,
+   "floor": "1",
+   "price": 679000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 679000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 136.0,
+   "exterior": true,
+   "rooms": 3,
+   "bathrooms": 2,
+   "address": "Piso en Calle del Áncora, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.4031425,
+   "longitude": -3.6943188,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/111183632/",
+   "distance": "112",
+   "description": "Amplia vivienda completamente actualizada, lista para entrar a vivir, con 136 m² construidos, 3 dormitorios, 2 baños y una distribución muy cómoda en una de las zonas más demandadas de Arganzuela. La propiedad destaca por su amplitud, por la buena organización de sus espacios y por ofrecer la tranquilidad de una reforma integral bien ejecutada, con electricidad y fontanería actualizadas, algo especialmente importante para quien busca comprar con seguridad y evitar futuras obras o inversiones adicionales. La vivienda cuenta con una zona de descanso especialmente agradable, ya que la parte de los dormitorios es exterior, aportando mayor sensación de luz y desahogo en las estancias más personales de la casa. En la habitación principal encontramos uno de sus elementos diferenciales: un vestidor y salida al balcón, creando un espacio más cómodo, funcional y con un punto extra de privacidad y encanto. Dispone de tres dormitorios de buen tamaño y dos baños, en una distribución pensada para resultar práctica tanto para familias como para quienes valoran metros reales y una vivienda bien resuelta. La vivienda tiene además calefacción central con contadores individuales, una combinación muy interesante para disfrutar de confort con mayor control del consumo, y persianas metálicas de seguridad, un extra que aporta protección y tranquilidad. El edificio suma valor desde la entrada, con un portal elegante y bien cuidado y servicio de conserje, dos elementos muy apreciados tanto por imagen como por comodidad y seguridad en el día a día. El salón y la cocina se orientan a patios de luces, lo que favorece un ambiente más resguardado y tranquilo dentro de la vivienda, mientras que la parte exterior queda reservada a la zona de dormitorios, donde se concentra una parte muy importante del atractivo del inmueble. Además, cuenta con solución de aparcamiento, un aspecto especialmente práctico y valorado en la zona. En conjunto, se trata de una vivienda difícil de encontrar por combinación de metros, reforma real, zona exterior de dormitorios, vestidor, balcón, seguridad y buena presencia de finca. Una propiedad para quien no busca solo comprar metros, sino entrar en una vivienda ya actualizada, cómoda y preparada para disfrutar desde el primer día. Contacta para más información o para concertar una visita.",
+   "hasVideo": true,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "priceByArea": 4993.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Calle del Áncora, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": true,
+   "has360": false,
+   "hasStaging": false,
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "109701426",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2c/2e/56/1383080873.webp",
+   "externalReference": "XBMAD00040C",
+   "numPhotos": 18,
+   "floor": "2",
+   "price": 409000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 409000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 65.0,
+   "exterior": false,
+   "rooms": 1,
+   "bathrooms": 1,
+   "address": "Piso en Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.402187,
+   "longitude": -3.6949916,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/109701426/",
+   "distance": "191",
+   "description": "Grupo Inmobiliario Xanadu By Jesus Heredia te presenta esta estupenda vivienda exclusiva, ubicada en Palos de la Frontera, en un edificio bien cuidado, con doble puerta de acceso, ascensor y plaza de garaje. La propiedad se trata de una segunda planta interior, orientada a un gran patio de luces. El inmueble cuenta con un dormitorio doble con armario empotrado y balcón, salón-comedor de más de 20 m2 con mirador y cocina americana, un amplio cuarto de baño completo con bañera y hall-recibidor. La vivienda del año 1994, tiene carpinterías exteriores de aluminio lacadas en rojo y climalit, suelos de parquet en espiga y puertas macizas de roble. La instalación eléctrica y la fontanería se encuentran en perfectas condiciones. Dispone de calefacción individual de gas natural y de una cómoda plaza de garaje con tres portones de acceso mecanizados en el mismo edificio.    Situado en la zona de Palos de la Frontera, se encuentra próximo al metro de Delicias y de Palos de la Frontera (línea 3) y de las líneas de autobús 6, 8, 19, 45, 47, 55, 59, 85, 86 y N14 de la EMT. Junto a la RENFE de Delicias (líneas C1 y C10) y muy próximo a la estación de Atocha y a la M-30. A medio camino entre Madrid Rio y El Parque de Retiro, junto a las zonas verdes del Jardín de Palestina y de la Plaza de Luca de Tena. Disfruta de una zona céntrica y consolidada, con todas las dotaciones necesarias, con el Centro Dotacional Integrado de Arganzuela (Nuevo Polideportivo), el Mercado Tradicional Santa María de la Cabeza, el Museo del Ferrocarril o el nuevo Centro Cultural Infinito Delicias. No dejes pasar esta oportunidad. ¡Ven a visitarla y descubre tu próximo hogar! En el precio de venta a público, esta propiedad NO incluye los gastos de adquisición (Notario, registro, impuesto, ni honorarios).",
+   "hasVideo": false,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "priceByArea": 6292.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": true,
+   "hasStaging": false,
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "111861359",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/e7/38/1450843755.webp",
+   "numPhotos": 30,
+   "floor": "1",
+   "price": 560000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 560000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 116.0,
+   "exterior": true,
+   "rooms": 4,
+   "bathrooms": 2,
+   "address": "Piso en Delicias, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.405341,
+   "longitude": -3.6947476,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/111861359/",
+   "distance": "299",
+   "description": "Estudio Paseo Delicias S.L. pone a la venta esta vivienda exterior situada en una primera planta, distribuida en cuatro amplios dormitorios, dos baños completos, un luminoso salón-comedor y una cocina independiente con acceso exclusivo a un espacioso patio interior. Además, la propiedad incluye una plaza de garaje. La vivienda destaca gracias a sus ventanas de última generación con doble acristalamiento Climalit, sistema oscilobatiente y protección frente a los rayos UVA, que ofrecen un mayor confort térmico y acústico, así como una mayor seguridad. Todos los dormitorios cuentan con armarios empotrados y ventanas al exterior o al patio, proporcionando una agradable entrada de luz natural. Características principales: -Cuatro amplios dormitorios. -Dos baños completos. -Luminoso salón-comedor. -Cocina independiente con acceso a patio interior de uso exclusivo. -Plaza de garaje incluida en el precio. -Aire acondicionado en las habitaciones principales. -Calefacción central. -Suelo de parqué. -Paredes con acabado en gotelé. -Ventanas Climalit de doble acristalamiento, oscilobatientes y con protección UVA. -Excelente iluminación y ventilación natural. Ubicado en una zona muy tranquila, comunicada y demandada en los últimos años, a escasos minutos del Museo Nacional Centro de Arte Reina Sofia, Real Jardín Botánico, Parque de Madrid Rio siendo uno de los pulmones verdes de la ciudad. Este parque fue cerrado al tráfico casi en su totalidad y ahora es uno de los mejores espacios de la Comunidad de Madrid para poder practicar nuestro deporte favorito al aire libre. Además de espacios ajardinados, parques, colegios, zonas verdes, centros de salud, polideportivos y centros comerciales y de ocio en todo el entorno. Zona muy consolidada con todos los servicios. La vivienda se encuentra muy bien conectada con líneas de Metro, trenes, buses, Bancos, Bares, Parques. A escasos minutos andando de la parada de metro Palos de la frontera (Línea 3) y a escasos minutos andando de la estación de trenes de Atocha, además, con parada de autobús con líneas 8, 47, 55, 102, 247, 6, 19, 45, 47, 55, 59, 85, 86, N14, que le dirigen a diferentes zonas de Madrid. Preguntar por condiciones de venta. La información contenida en este anuncio no tiene carácter contractual ni vinculante, ya que podría contener alguna incorreción. En el precio de venta expuesto no se hayan incluidos los gastos de formalización de la compraventa, tales como honorarios de notaria, honorarios de la inscripción registral, honorarios por la tramitación e inscripción registral de escrituras ni el ITP (Impuesto de Transmisiones Patrimoniales, siendo el tipo máximo en la Comunidad de Madrid del 6%). Del mismo modo, en el precio anunciado, no se incluyen los honorarios de agencia al comprador, que ascienden al 3%+IVA (tipo impositivo 21%) sobre el precio fijado en la promesa de compra suscrita por el mismo. Tampoco se encuentra incluidos en el precio anunciado de venta otros tributos y gastos que pudieran existir al suscribir una hipoteca, tales como gastos de tasación, comisión bancaria de apertura del préstamo, AJD (Impuesto de Actos Jurídicos Documentados), gastos de segundas copias.",
+   "hasVideo": false,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": true,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "priceByArea": 4828.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Delicias, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  },
+  {
+   "propertyCode": "107005419",
+   "thumbnail": "https://img4.idealista.com/blur/480_360_mq/270/id.pro.es.image.master/6c/77/1d/1322062495.webp",
+   "numPhotos": 36,
+   "floor": "1",
+   "price": 480000.0,
+   "priceInfo": {
+    "price": {
+     "amount": 480000.0,
+     "currencySuffix": "€"
+    }
+   },
+   "propertyType": "flat",
+   "operation": "sale",
+   "size": 85.0,
+   "exterior": false,
+   "rooms": 2,
+   "bathrooms": 1,
+   "address": "Piso en Paseo de Santa María de la Cabeza, Palos de la Frontera, Madrid",
+   "province": "Madrid",
+   "municipality": "Madrid",
+   "district": "Arganzuela",
+   "country": "es",
+   "neighborhood": "Palos de la Frontera",
+   "latitude": 40.4045303,
+   "longitude": -3.6943356,
+   "showAddress": false,
+   "url": "https://www.idealista.com/inmueble/107005419/",
+   "distance": "204",
+   "description": "MARCELI VENDE: Piso en primera planta interior, amplio vestíbulo con gran armario empotrado, salón espacioso, dos dormitorios uno de ellos muy amplio, cocina amueblada amplia, baño con bañera, calefacción por gas natural. Derrama por ascensor e ite empiezan las obras el mes de febrero, la derrama quedaría íntegramente pagada por la propiedad.  Buen estado. Plaza de Garaje incluida en el precio. Comunidad 118 €, pagada la derrama sera menos, Ibi 347 €. Rodeado de todos los servicios, pagado a glorieta de Atocha, museo Reina Sofia y estación de Renfe. Edificio pintoresco de corrala del año 1904. Ideal inversión. Inmobiliaria Marceli- Paseo Extremadura 123. 45 años vendiendo y alquilando inmuebles por todo Madrid.",
+   "hasVideo": false,
+   "status": "good",
+   "newDevelopment": false,
+   "hasLift": false,
+   "parkingSpace": {
+    "hasParkingSpace": true,
+    "isParkingSpaceIncludedInPrice": true
+   },
+   "priceByArea": 5647.0,
+   "change": {},
+   "detailedType": {
+    "typology": "flat"
+   },
+   "suggestedTexts": {
+    "title": "Piso en Paseo de Santa María de la Cabeza, Palos de la Frontera, Madrid"
+   },
+   "hasPlan": true,
+   "has3DTour": false,
+   "has360": false,
+   "hasStaging": false,
+   "savedAd": {},
+   "notes": [],
+   "topNewDevelopment": false,
+   "newDevelopmentHighlight": false,
+   "topPlus": false
+  }
+ ]
+}
