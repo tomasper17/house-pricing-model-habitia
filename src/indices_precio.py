@@ -31,8 +31,8 @@ from src import rutas
 RUTA_VENTA = rutas.RUTA_COMPRAVENTA
 RUTA_ALQUILER = rutas.RUTA_ALQUILER_DISTRITO
 
-ANO_BASE = 2018
-ANO_INICIO_TENDENCIA = 2018
+AÑO_BASE = 2018
+AÑO_INICIO_TENDENCIA = 2018
 
 
 def _numero_es(serie: pd.Series) -> pd.Series:
@@ -134,9 +134,9 @@ def crecimiento_tendencia(tabla: pd.DataFrame, ano_inicio: int, ano_final: int) 
     return np.exp(logaritmos.apply(pendiente, axis=1)) - 1
 
 
-def construir_indices(ano_base: int = ANO_BASE, ano_destino: int | None = None, ano_renta: int | None = None,
+def construir_indices(ano_base: int = AÑO_BASE, ano_destino: int | None = None, ano_renta: int | None = None,
                       venta: pd.DataFrame | None = None, alquiler: pd.DataFrame | None = None,
-                      ano_inicio_tendencia: int = ANO_INICIO_TENDENCIA) -> pd.DataFrame:
+                      ano_inicio_tendencia: int = AÑO_INICIO_TENDENCIA) -> pd.DataFrame:
     """
     Una fila por distrito (código de 2 dígitos = los dos primeros de `barrio_code`):
 
