@@ -54,6 +54,11 @@ MODULOS_PREDICCION = ["predictor.py", "produccion.py", "amenidades_descripcion.p
 PROCESADOS = rutas.PROCESADOS
 VERSION_PAQUETE = 3
 
+# Año al que `exportar_paquete()` lleva precio y renta por defecto. Mismo valor que ANO_ACTUAL
+# en el notebook 08: súbelo aquí cuando cambie allí, y vuelve a exportar y empaquetar para que
+# el zip que se comparte deje de quedarse en un año atrás.
+ANO_PRODUCCION = 2026
+
 TIPOS_POI = ["City_Center", "Metro", "Castellana"]
 COLUMNAS_API = ["propertyCode", "operation", "propertyType", "price", "size", "rooms", "bathrooms",
                 "latitude", "longitude", "detailedType.subTypology"]
@@ -72,12 +77,16 @@ METADATOS_ARTEFACTO = ["nombre", "familia", "dataset", "columnas", "params", "sm
 # Exportación
 # ------------------------------------------------------------------------------
 def exportar_paquete(destino: Path = RUTA_PAQUETE, ruta_artefacto: Path = RUTA_ARTEFACTO,
-                     ano_destino: int | None = None, ano_renta: int | None = None) -> Path:
+                     ano_destino: int | None = ANO_PRODUCCION, ano_renta: int | None = ANO_PRODUCCION) -> Path:
     """
-    Escribe el paquete de producción en `destino`. `ano_destino` (año del precio) por defecto
-    es el último con serie de venta; `ano_renta` (factor precio→renta y alquiler de barrio), el
-    último con venta y alquiler (ver `construir_indices`). Comprueba que el modelo nativo
-    predice igual que el artefacto de `07` sobre el test antes de dar el paquete por bueno.
+    Escribe el paquete de producción en `destino`. `ano_destino` (año del precio) y `ano_renta`
+    (factor precio→renta y alquiler de barrio) llevan por defecto `ANO_PRODUCCION`, el mismo año
+    que usa el notebook 08 -- así el paquete exportado (y el zip que sale de `empaquetar()`)
+    reproduce lo que muestra el notebook en vez de quedarse en el último año con dato real sin
+    proyectar. Pasa `None` para ese comportamiento antiguo (último año con serie de venta / con
+    venta y alquiler a la vez, ver `construir_indices`), o cualquier otro año explícito.
+    Comprueba que el modelo nativo predice igual que el artefacto de `07` sobre el test antes de
+    dar el paquete por bueno.
     """
     import joblib
     from src.indices_precio import construir_indices
@@ -333,8 +342,12 @@ def main(argv: list[str] | None = None) -> None:
 
     exportar = ordenes.add_parser("exportar", help="congela el paquete de producción")
     exportar.add_argument("--destino", type=Path, default=RUTA_PAQUETE)
-    exportar.add_argument("--ano-destino", type=int, default=None, help="año del precio (def.: último con venta)")
-    exportar.add_argument("--ano-renta", type=int, default=None, help="año del factor de renta (def.: último con alquiler)")
+    exportar.add_argument("--ano-destino", type=int, default=ANO_PRODUCCION,
+                          help=f"año del precio (def.: {ANO_PRODUCCION}, el del notebook 08; "
+                               "pasa 0 para el último año con venta sin proyectar)")
+    exportar.add_argument("--ano-renta", type=int, default=ANO_PRODUCCION,
+                          help=f"año del factor de renta (def.: {ANO_PRODUCCION}; "
+                               "pasa 0 para el último año con venta y alquiler sin proyectar)")
 
     empaq = ordenes.add_parser("empaquetar", help="zip autocontenido para compartir el predictor")
     empaq.add_argument("--destino", type=Path, default=RUTA_ZIP)
@@ -348,7 +361,9 @@ def main(argv: list[str] | None = None) -> None:
 
     args = parser.parse_args(argv)
     if args.orden == "exportar":
-        ruta = exportar_paquete(args.destino, ano_destino=args.ano_destino, ano_renta=args.ano_renta)
+        ano_destino = None if args.ano_destino == 0 else args.ano_destino
+        ano_renta = None if args.ano_renta == 0 else args.ano_renta
+        ruta = exportar_paquete(args.destino, ano_destino=ano_destino, ano_renta=ano_renta)
         print(f"paquete -> {ruta}")
         return
     if args.orden == "empaquetar":
